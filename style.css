@@ -1,0 +1,22 @@
+/* style .css pour le space invader bootstrap */
+
+#main_body {
+	display: flex;
+	height: 100vh;
+	background-color: #AAA;
+}
+
+.container {
+	margin: auto;
+	width: 300px;
+}
+
+.empty {
+	height: 25px;
+	background-color: #AAA;
+}
+
+.filled {
+	height: 25px;
+	background-color: rgb(0,125,0);
+}
